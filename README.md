@@ -5,6 +5,6 @@
 
 Ссылки на плейлисты для IPTV плееров:
 
-https://raw.githubusercontent.com/CrocoUser/smotrim/refs/heads/main/smotrim.m3u
+smotrim: https://raw.githubusercontent.com/CrocoUser/smotrim/refs/heads/main/smotrim.m3u
 
 Станция MSD 2025. ms-dolina.cf
