@@ -375,19 +375,19 @@ https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd315
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 group-title="Основные" tvg-id="rossia-24",Россия 24 Int.
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
-#EXTINF:-1 group-title="Основные",Смотрим 100% Любовь
+#EXTINF:-1 group-title="Основные" tvg-id="smotrim-100-lubov",Смотрим 100% Любовь
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
-#EXTINF:-1 group-title="Основные",Смотрим 100% Мужское
+#EXTINF:-1 group-title="Основные" tvg-id="smotrim-100-muzhskoe",Смотрим 100% Мужское
 https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
-#EXTINF:-1 group-title="Основные",Смотрим 100% Классика
+#EXTINF:-1 group-title="Основные" tvg-id="smotrim-100-klassika",Смотрим 100% Классика
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
-#EXTINF:-1 group-title="Основные",Смотрим 100% Детское
+#EXTINF:-1 group-title="Основные" tvg-id="smotrim-100-detskoe",Смотрим 100% Детское
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
-#EXTINF:-1 group-title="Основные",Смотрим 100% Праздник
+#EXTINF:-1 group-title="Основные" tvg-id="smotrim-100-prazdnik",Смотрим 100% Праздник
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
-#EXTINF:-1 group-title="Основные",Смотрим 100% Факты
+#EXTINF:-1 group-title="Основные" tvg-id="smotrim-100-fakty",Смотрим 100% Факты
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
-#EXTINF:-1 group-title="Основные",Честный детектив
+#EXTINF:-1 group-title="Основные" tvg-id="chestny-detektiv",Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="tnt-music",ТНТ MUSIC
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
