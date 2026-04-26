@@ -7,4 +7,4 @@
 
 smotrim: https://raw.githubusercontent.com/CrocoUser/smotrim/refs/heads/main/smotrim.m3u
 
-Станция MSD 2025. ms-dolina.cf
+Станция MSD 2026. ms-dolina.cf
