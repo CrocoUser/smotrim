@@ -45,10 +45,6 @@ https://live-gtrk.smotrim.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 https://live-gtrk.smotrim.ru/vgtrk/tomsk/sibir24-hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="vostok-24",Восток 24
 https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="bashkortostan24",Башкортостан 24
-https://live-gtrk.smotrim.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="volgograd-24",Волгоград 24
-https://live-gtrk.smotrim.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rtr-planeta-azia",РТР-Планета. Азия
 https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
 #EXTINF:-1 group-title="Основные" tvg-id="rtr-planeta-ua",РТР-Планета. СНГ
@@ -59,6 +55,24 @@ https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=51
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
 #EXTINF:-1 group-title="Основные" tvg-id="rossia-24",Россия 24 Int.
 https://stream.smotrim.ru/hls/russia24_int/playlist.m3u8?entity=channel&id=597&sign=bbf43a8238f0b14db8dce712474c4f1e
+#EXTINF:-1 group-title="Основные" tvg-id="solovjinypomiot",Соловьёв Лайф
+https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
+#EXTINF:-1 group-title="Основные" tvg-id="tnt-music",ТНТ MUSIC
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="bolshaya-azia",Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="dumatv",Дума ТВ
+https://dumatv.iptv2022.com/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="vmeste-rf",Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="360-podmoskovie",360
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="360-news",360 новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tolk",Толк
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tro",Союзный
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="smotrim-100-lubov",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls3/fasttv01/playlist.m3u8?entity=channel&id=394&sign=c87e698e917734d17feb8a476630eb24
 #EXTINF:-1 group-title="Основные" tvg-id="smotrim-100-fakty",Смотрим 100% Факты
@@ -73,373 +87,359 @@ https://stream.smotrim.ru/hls3/fasttv02/playlist.m3u8?entity=channel&id=398&sign
 https://stream.smotrim.ru/hls3/fasttv04/playlist.m3u8?entity=channel&id=399&sign=8e6c4c2402fda78775905b18525359fa
 #EXTINF:-1 group-title="Основные" tvg-id="chestny-detektiv",Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="moskva-24",Москва 24
+#EXTINF:-1 group-title="Региональные" tvg-id="moskva-24",Москва 24
 https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21
-#EXTINF:-1 group-title="Основные" tvg-id="sankt-peterburg",Санкт-Петербург
+#EXTINF:-1 group-title="Региональные" tvg-id="sankt-peterburg",Санкт-Петербург
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist.m3u8?entity=channel&id=262&sign=35d38aae58856151b715728a81b333de
-#EXTINF:-1 group-title="Основные" tvg-id="lot-47",ЛенТВ24
+#EXTINF:-1 group-title="Региональные" tvg-id="lot-47",ЛенТВ24
 https://stream.smotrim.ru/hls/lentv24/playlist.m3u8?entity=channel&id=275&sign=2b38bf6446fb73e2168144c12a7a3d13
-#EXTINF:-1 group-title="Основные" tvg-id="solovjinypomiot",Соловьёв Лайф
-https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
-#EXTINF:-1 group-title="Основные" tvg-id="tnt-music",ТНТ MUSIC
-https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="bolshaya-azia",Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="dumatv",Дума ТВ
-https://dumatv.iptv2022.com/mono.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="vmeste-rf",Вместе РФ
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="samara24",Самара 24
+#EXTINF:-1 group-title="Региональные" tvg-id="bashkortostan24",Башкортостан 24
+https://live-gtrk.smotrim.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="volgograd-24",Волгоград 24
+https://live-gtrk.smotrim.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="samara24",Самара 24
 https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="nn-24",Нижний Новгород 24
+#EXTINF:-1 group-title="Региональные" tvg-id="nn-24",Нижний Новгород 24
 https://live-gtrk.smotrim.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="s1-surgut",СургутИнформТВ
+#EXTINF:-1 group-title="Региональные" tvg-id="s1-surgut",СургутИнформТВ
 https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="krasnodar",Краснодар
+#EXTINF:-1 group-title="Региональные" tvg-id="krasnodar",Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="yugra",Югра
+#EXTINF:-1 group-title="Региональные" tvg-id="yugra",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="otv-primorie",ОТВ Приморье
+#EXTINF:-1 group-title="Региональные" tvg-id="otv-primorie",ОТВ Приморье
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="360-podmoskovie",360
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="360-news",360 новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="tolk",Толк
-https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 group-title="Основные",Сити. Москва 24
+#EXTINF:-1 group-title="Региональные",Сити. Москва 24
 https://stream.smotrim.ru/hls/givc9/playlist.m3u8?entity=channel&id=797&sign=1ccea8495fa434b266549b49c1b75da7
-#EXTINF:-1 group-title="Основные" tvg-id="moskva-24",М24 HD
+#EXTINF:-1 group-title="Региональные" tvg-id="moskva-24",М24 HD
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
-#EXTINF:-1 group-title="Основные",Москва 24
+#EXTINF:-1 group-title="Региональные",Москва 24
 https://stream.smotrim.ru/hls/givc10/playlist.m3u8?entity=channel&id=799&sign=f5ce690ae578057331ea8e3d79e0c2d8
-#EXTINF:-1 group-title="Основные" tvg-id="tro",Союзный
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl4",Россия 1 (Абакан)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl4",Россия 1 (Абакан)
 https://live-gtrk.smotrim.ru/vgtrk/abakan/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl9",Россия 1 (Анадырь)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl9",Россия 1 (Анадырь)
 https://live-gtrk.smotrim.ru/vgtrk/anadyr/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Архангельск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Архангельск)
 https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl1",Россия 1 HD (Астрахань)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl1",Россия 1 HD (Астрахань)
 https://live-gtrk.smotrim.ru/vgtrk/astrahan/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl4",Россия 1 (Барнаул)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl4",Россия 1 (Барнаул)
 https://live-gtrk.smotrim.ru/vgtrk/barnaul/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Белгород)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Белгород)
 https://live-gtrk.smotrim.ru/vgtrk/belgorod/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl7",Россия 1 HD (Биробиджан)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl7",Россия 1 HD (Биробиджан)
 https://live-gtrk.smotrim.ru/vgtrk/birobidgan/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl6",Россия 1 HD (Благовещенск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl6",Россия 1 HD (Благовещенск)
 https://live-gtrk.smotrim.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Брянск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Брянск)
 https://live-gtrk.smotrim.ru/vgtrk/bryansk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Чебоксары)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Чебоксары)
 https://live-gtrk.smotrim.ru/vgtrk/cheboksar/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl2",Россия 1 (Челябинск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl2",Россия 1 (Челябинск)
 https://live-gtrk.smotrim.ru/vgtrk/chelyabinsk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Черкесск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Черкесск)
 https://live-gtrk.smotrim.ru/vgtrk/cherkessk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl5",Россия 1 HD (Чита)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl5",Россия 1 HD (Чита)
 https://live-gtrk.smotrim.ru/vgtrk/chita/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl2",Россия 1 HD (Екатеринбург)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl2",Россия 1 HD (Екатеринбург)
 https://live-gtrk.smotrim.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Элиста)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Элиста)
 https://live-gtrk.smotrim.ru/vgtrk/elista/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl4",Россия 1 (Горно-Алтайск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl4",Россия 1 (Горно-Алтайск)
 https://live-gtrk.smotrim.ru/vgtrk/gornoaltaysk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Грозный)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Грозный)
 https://live-gtrk.smotrim.ru/vgtrk/grozniy/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl7",Россия 1 HD (Хабаровск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl7",Россия 1 HD (Хабаровск)
 https://live-gtrk.smotrim.ru/vgtrk/habarovsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl2",Россия 1 (Ханты-Мансийск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl2",Россия 1 (Ханты-Мансийск)
 https://live-gtrk.smotrim.ru/vgtrk/hantimansisk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Луганск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Луганск)
 https://live-gtrk.smotrim.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Донецк)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Донецк)
 https://live-gtrk.smotrim.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl1",Россия 1 (Ижевск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl1",Россия 1 (Ижевск)
 https://live-gtrk.smotrim.ru/vgtrk/igevsk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl5",Россия 1 (Иркутск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl5",Россия 1 (Иркутск)
 https://live-gtrk.smotrim.ru/vgtrk/irkutsk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Иваново)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Иваново)
 https://live-gtrk.smotrim.ru/vgtrk/ivanovo/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Калининград)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Калининград)
 https://live-gtrk.smotrim.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Калуга)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Калуга)
 https://live-gtrk.smotrim.ru/vgtrk/kaluga/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Казань)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Казань)
 https://live-gtrk.smotrim.ru/vgtrk/kazan/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl4",Россия 1 HD (Кемерово)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl4",Россия 1 HD (Кемерово)
 https://live-gtrk.smotrim.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Киров)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Киров)
 https://live-gtrk.smotrim.ru/vgtrk/kirov/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl4",Россия 1 HD (Кызыл)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl4",Россия 1 HD (Кызыл)
 https://live-gtrk.smotrim.ru/vgtrk/kisil/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Кострома)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Кострома)
 https://live-gtrk.smotrim.ru/vgtrk/kostroma/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Краснодар)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Краснодар)
 https://live-gtrk.smotrim.ru/vgtrk/krasnodar/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl4",Россия 1 (Красноярск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl4",Россия 1 (Красноярск)
 https://live-gtrk.smotrim.ru/vgtrk/krasnoyarsk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl2",Россия 1 HD (Курган)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl2",Россия 1 HD (Курган)
 https://live-gtrk.smotrim.ru/vgtrk/kurgan/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Курск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Курск)
 https://live-gtrk.smotrim.ru/vgtrk/kursk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Липецк)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Липецк)
 https://live-gtrk.smotrim.ru/vgtrk/lipetsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl8",Россия 1 HD (Магадан)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl8",Россия 1 HD (Магадан)
 https://live-gtrk.smotrim.ru/vgtrk/magadan/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Махачкала)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Махачкала)
 https://live-gtrk.smotrim.ru/vgtrk/mahachkala/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Майкоп)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Майкоп)
 https://live-gtrk.smotrim.ru/vgtrk/maykop/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Мурманск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Мурманск)
 https://live-gtrk.smotrim.ru/vgtrk/murmansk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Нальчик)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Нальчик)
 https://live-gtrk.smotrim.ru/vgtrk/nalchik/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Назрань)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Назрань)
 https://live-gtrk.smotrim.ru/vgtrk/nazran/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Нижний Новгород)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Нижний Новгород)
 https://live-gtrk.smotrim.ru/vgtrk/nigniynovgorod/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl4",Россия 1 HD (Новосибирск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl4",Россия 1 HD (Новосибирск)
 https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl3",Россия 1 HD (Омск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl3",Россия 1 HD (Омск)
 https://live-gtrk.smotrim.ru/vgtrk/omsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Орёл)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Орёл)
 https://live-gtrk.smotrim.ru/vgtrk/orel/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl2",Россия 1 HD (Оренбург)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl2",Россия 1 HD (Оренбург)
 https://live-gtrk.smotrim.ru/vgtrk/orenburg/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Пенза)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Пенза)
 https://live-gtrk.smotrim.ru/vgtrk/penza/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl2",Россия 1 (Пермь)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl2",Россия 1 (Пермь)
 https://live-gtrk.smotrim.ru/vgtrk/perm/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl9",Россия 1 HD (Петропавловск-Камчатский)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl9",Россия 1 HD (Петропавловск-Камчатский)
 https://live-gtrk.smotrim.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Петрозаводск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Петрозаводск)
 https://live-gtrk.smotrim.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Псков)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Псков)
 https://live-gtrk.smotrim.ru/vgtrk/pskov/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Ростов-на-Дону)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Ростов-на-Дону)
 https://live-gtrk.smotrim.ru/vgtrk/rostovdon/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Рязань)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Рязань)
 https://live-gtrk.smotrim.ru/vgtrk/ryazan/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl2",Россия 1 (Салехард)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl2",Россия 1 (Салехард)
 https://live-gtrk.smotrim.ru/vgtrk/salehad/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl1",Россия 1 (Самара)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl1",Россия 1 (Самара)
 https://live-gtrk.smotrim.ru/vgtrk/samara/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Саранск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Саранск)
 https://live-gtrk.smotrim.ru/vgtrk/saransk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl1",Россия 1 HD (Саратов)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl1",Россия 1 HD (Саратов)
 https://live-gtrk.smotrim.ru/vgtrk/saratov/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Сыктывкар)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Сыктывкар)
 https://live-gtrk.smotrim.ru/vgtrk/siktivkar/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Симферополь)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Симферополь)
 https://live-gtrk.smotrim.ru/vgtrk/simferopol/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Смоленск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Смоленск)
 https://live-gtrk.smotrim.ru/vgtrk/smolensk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Сочи)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Сочи)
 https://live-gtrk.smotrim.ru/vgtrk/sochi/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Санкт-Петербург)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Санкт-Петербург)
 https://live-gtrk.smotrim.ru/vgtrk/spb/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Ставрополь)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Ставрополь)
 https://live-gtrk.smotrim.ru/vgtrk/stavropol/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Тамбов)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Тамбов)
 https://live-gtrk.smotrim.ru/vgtrk/tambov/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl4",Россия 1 HD (Томск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl4",Россия 1 HD (Томск)
 https://live-gtrk.smotrim.ru/vgtrk/tomsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Тула)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Тула)
 https://live-gtrk.smotrim.ru/vgtrk/tula/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl2",Россия 1 (Тюмень)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl2",Россия 1 (Тюмень)
 https://live-gtrk.smotrim.ru/vgtrk/tumen/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Тверь)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Тверь)
 https://live-gtrk.smotrim.ru/vgtrk/tver/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl2",Россия 1 (Уфа)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl2",Россия 1 (Уфа)
 https://live-gtrk.smotrim.ru/vgtrk/ufa/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl8",Россия 1 HD (Южно-Сахалинск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl8",Россия 1 HD (Южно-Сахалинск)
 https://live-gtrk.smotrim.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl5",Россия 1 HD (Улан-Удэ)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl5",Россия 1 HD (Улан-Удэ)
 https://live-gtrk.smotrim.ru/vgtrk/ulanude/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Ульяновск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Ульяновск)
 https://live-gtrk.smotrim.ru/vgtrk/ulyanovsk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Великий Новгород)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Великий Новгород)
 https://live-gtrk.smotrim.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Владикавказ)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Владикавказ)
 https://live-gtrk.smotrim.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Владимир)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Владимир)
 https://live-gtrk.smotrim.ru/vgtrk/vladimir/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl7",Россия 1 (Владивосток)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl7",Россия 1 (Владивосток)
 https://live-gtrk.smotrim.ru/vgtrk/vladivostok/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Волгоград)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Волгоград)
 https://live-gtrk.smotrim.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Вологда)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Вологда)
 https://live-gtrk.smotrim.ru/vgtrk/vologda/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Воронеж)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Воронеж)
 https://live-gtrk.smotrim.ru/vgtrk/voroneg/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1-pl6",Россия 1 HD (Якутск)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1-pl6",Россия 1 HD (Якутск)
 https://live-gtrk.smotrim.ru/vgtrk/yakutsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 (Ярославль)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 (Ярославль)
 https://live-gtrk.smotrim.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1",Россия 1 HD (Йошкар-Ола)
+#EXTINF:-1 group-title="Россия 1. Регионы" tvg-id="rossia1",Россия 1 HD (Йошкар-Ола)
 https://live-gtrk.smotrim.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Абакан)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Абакан)
 https://live-gtrk.smotrim.ru/vgtrk/abakan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Анадырь)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Анадырь)
 https://live-gtrk.smotrim.ru/vgtrk/anadyr/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Архангельск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Архангельск)
 https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Астрахань)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Астрахань)
 https://live-gtrk.smotrim.ru/vgtrk/astrahan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Барнаул)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Барнаул)
 https://live-gtrk.smotrim.ru/vgtrk/barnaul/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Белгород)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Белгород)
 https://live-gtrk.smotrim.ru/vgtrk/belgorod/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Биробиджан)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Биробиджан)
 https://live-gtrk.smotrim.ru/vgtrk/birobidgan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Благовещенск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Благовещенск)
 https://live-gtrk.smotrim.ru/vgtrk/blagoveshensk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Брянск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Брянск)
 https://live-gtrk.smotrim.ru/vgtrk/bryansk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Чебоксары)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Чебоксары)
 https://live-gtrk.smotrim.ru/vgtrk/cheboksar/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Челябинск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Челябинск)
 https://live-gtrk.smotrim.ru/vgtrk/chelyabinsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Черкесск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Черкесск)
 https://live-gtrk.smotrim.ru/vgtrk/cherkessk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Чита)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Чита)
 https://live-gtrk.smotrim.ru/vgtrk/chita/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Екатеринбург)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Екатеринбург)
 https://live-gtrk.smotrim.ru/vgtrk/ekaterinburg/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Элиста)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Элиста)
 https://live-gtrk.smotrim.ru/vgtrk/elista/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Горно-Алтайск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Горно-Алтайск)
 https://live-gtrk.smotrim.ru/vgtrk/gornoaltaysk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Грозный)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Грозный)
 https://live-gtrk.smotrim.ru/vgtrk/grozniy/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Хабаровск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Хабаровск)
 https://live-gtrk.smotrim.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Ханты-Мансийск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Ханты-Мансийск)
 https://live-gtrk.smotrim.ru/vgtrk/hantimansisk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Ижевск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Ижевск)
 https://live-gtrk.smotrim.ru/vgtrk/igevsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Иркутск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Иркутск)
 https://live-gtrk.smotrim.ru/vgtrk/irkutsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Иваново)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Иваново)
 https://live-gtrk.smotrim.ru/vgtrk/ivanovo/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Калининград)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Калининград)
 https://live-gtrk.smotrim.ru/vgtrk/kaliningrad/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Калуга)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Калуга)
 https://live-gtrk.smotrim.ru/vgtrk/kaluga/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Казань)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Казань)
 https://live-gtrk.smotrim.ru/vgtrk/kazan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Кемерово)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Кемерово)
 https://live-gtrk.smotrim.ru/vgtrk/kemerovo/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Киров)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Киров)
 https://live-gtrk.smotrim.ru/vgtrk/kirov/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Кызыл)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Кызыл)
 https://live-gtrk.smotrim.ru/vgtrk/kisil/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Кострома)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Кострома)
 https://live-gtrk.smotrim.ru/vgtrk/kostroma/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Краснодар)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Краснодар)
 https://live-gtrk.smotrim.ru/vgtrk/krasnodar/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Красноярск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Красноярск)
 https://live-gtrk.smotrim.ru/vgtrk/krasnoyarsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Курган)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Курган)
 https://live-gtrk.smotrim.ru/vgtrk/kurgan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Курск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Курск)
 https://live-gtrk.smotrim.ru/vgtrk/kursk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Липецк)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Липецк)
 https://live-gtrk.smotrim.ru/vgtrk/lipetsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Магадан)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Магадан)
 https://live-gtrk.smotrim.ru/vgtrk/magadan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Махачкала)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Махачкала)
 https://live-gtrk.smotrim.ru/vgtrk/mahachkala/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Майкоп)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Майкоп)
 https://live-gtrk.smotrim.ru/vgtrk/maykop/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Мурманск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Мурманск)
 https://live-gtrk.smotrim.ru/vgtrk/murmansk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Нальчик)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Нальчик)
 https://live-gtrk.smotrim.ru/vgtrk/nalchik/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Назрань)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Назрань)
 https://live-gtrk.smotrim.ru/vgtrk/nazran/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Нижний Новгород)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Нижний Новгород)
 https://live-gtrk.smotrim.ru/vgtrk/nigniynovgorod/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Новосибирск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Новосибирск)
 https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Омск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Омск)
 https://live-gtrk.smotrim.ru/vgtrk/omsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Орёл)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Орёл)
 https://live-gtrk.smotrim.ru/vgtrk/orel/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Оренбург)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Оренбург)
 https://live-gtrk.smotrim.ru/vgtrk/orenburg/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Пенза)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Пенза)
 https://live-gtrk.smotrim.ru/vgtrk/penza/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Пермь)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Пермь)
 https://live-gtrk.smotrim.ru/vgtrk/perm/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Петропавловск-Камчатский)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Петропавловск-Камчатский)
 https://live-gtrk.smotrim.ru/vgtrk/petropavlosk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Петрозаводск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Петрозаводск)
 https://live-gtrk.smotrim.ru/vgtrk/petrozavodsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Псков)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Псков)
 https://live-gtrk.smotrim.ru/vgtrk/pskov/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Ростов-на-Дону)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Ростов-на-Дону)
 https://live-gtrk.smotrim.ru/vgtrk/rostovdon/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Рязань)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Рязань)
 https://live-gtrk.smotrim.ru/vgtrk/ryazan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Салехард)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Салехард)
 https://live-gtrk.smotrim.ru/vgtrk/salehad/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Самара)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Самара)
 https://live-gtrk.smotrim.ru/vgtrk/samara/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Саранск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Саранск)
 https://live-gtrk.smotrim.ru/vgtrk/saransk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Саратов)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Саратов)
 https://live-gtrk.smotrim.ru/vgtrk/saratov/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Сыктывкар)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Сыктывкар)
 https://live-gtrk.smotrim.ru/vgtrk/siktivkar/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Симферополь)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Симферополь)
 https://live-gtrk.smotrim.ru/vgtrk/simferopol/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Смоленск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Смоленск)
 https://live-gtrk.smotrim.ru/vgtrk/smolensk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Сочи)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Сочи)
 https://live-gtrk.smotrim.ru/vgtrk/sochi/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Санкт-Петербург)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Санкт-Петербург)
 https://live-gtrk.smotrim.ru/vgtrk/spb/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Ставрополь)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Ставрополь)
 https://live-gtrk.smotrim.ru/vgtrk/stavropol/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Тамбов)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Тамбов)
 https://live-gtrk.smotrim.ru/vgtrk/tambov/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Томск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Томск)
 https://live-gtrk.smotrim.ru/vgtrk/tomsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Тула)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Тула)
 https://live-gtrk.smotrim.ru/vgtrk/tula/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Тюмень)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Тюмень)
 https://live-gtrk.smotrim.ru/vgtrk/tumen/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Тверь)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Тверь)
 https://live-gtrk.smotrim.ru/vgtrk/tver/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Уфа)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Уфа)
 https://live-gtrk.smotrim.ru/vgtrk/ufa/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Южно-Сахалинск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Южно-Сахалинск)
 https://live-gtrk.smotrim.ru/vgtrk/ugnosahalinsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Улан-Удэ)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Улан-Удэ)
 https://live-gtrk.smotrim.ru/vgtrk/ulanude/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Ульяновск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Ульяновск)
 https://live-gtrk.smotrim.ru/vgtrk/ulyanovsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Великий Новгород)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Великий Новгород)
 https://live-gtrk.smotrim.ru/vgtrk/velikiy-novgorod/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Владикавказ)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Владикавказ)
 https://live-gtrk.smotrim.ru/vgtrk/vladikavkaz/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Владимир)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Владимир)
 https://live-gtrk.smotrim.ru/vgtrk/vladimir/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Владивосток)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Владивосток)
 https://live-gtrk.smotrim.ru/vgtrk/vladivostok/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Волгоград)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Волгоград)
 https://live-gtrk.smotrim.ru/vgtrk/volgograd/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Вологда)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Вологда)
 https://live-gtrk.smotrim.ru/vgtrk/vologda/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Воронеж)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Воронеж)
 https://live-gtrk.smotrim.ru/vgtrk/voroneg/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Якутск)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Якутск)
 https://live-gtrk.smotrim.ru/vgtrk/yakutsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Ярославль)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Ярославль)
 https://live-gtrk.smotrim.ru/vgtrk/yaroslavl/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24",Россия 24 (Йошкар-Ола)
+#EXTINF:-1 group-title="Россия 24. Регионы" tvg-id="rossia-24",Россия 24 (Йошкар-Ола)
 https://live-gtrk.smotrim.ru/vgtrk/yoshkar-ola/russia24-sd/index.m3u8
