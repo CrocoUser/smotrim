@@ -1,0 +1,331 @@
+#EXTM3U
+#EXTINF:-1 group-title="Основные",Радио России
+https://podcast.smotrim.ru/radio/hls3/RadioRFM/playlist.m3u8?entity=channel&id=93&sign=9c18927b43b20a46b46a7e764caf83f8
+#EXTINF:-1 group-title="Основные",Радио Маяк
+https://podcast.smotrim.ru/radio/hls3/RadioMayak/playlist.m3u8?entity=channel&id=81&sign=9b76f51f90488f3bc48e5faed32e5b97
+#EXTINF:-1 group-title="Основные",Радио Маяк (icecast)
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 group-title="Основные",Вести ФМ
+https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417
+#EXTINF:-1 group-title="Основные",Радио Культура
+https://podcast.smotrim.ru/radio/hls3/RadioKultura/playlist.m3u8?entity=channel&id=200&sign=aaab2b8d18a2ee408c85d5c6ddc92e3e
+#EXTINF:-1 group-title="Основные",Радио Культура (icecast)
+https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
+#EXTINF:-1 group-title="Основные",Радио Юность
+https://podcast.smotrim.ru/radio/hls3/RadioUnost/playlist.m3u8?entity=channel&id=248&sign=72a2b3e2f098492a9fb5178348464221
+#EXTINF:-1 group-title="Основные",Радио Юность (icecast)
+https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
+#EXTINF:-1 group-title="Основные",Радио Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
+#EXTINF:-1 group-title="Основные",Песни от всей души
+https://hls-01-povd.hostingradio.ru/povd/playlist.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Абакан
+https://podcast-gtrk.smotrim.ru/vgtrk/abakan/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Анадырь
+https://podcast-gtrk.smotrim.ru/vgtrk/anadyr/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Архангельск
+https://podcast-gtrk.smotrim.ru/vgtrk/arhangelsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Астрахань
+https://podcast-gtrk.smotrim.ru/vgtrk/astrahan/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Барнаул
+https://podcast-gtrk.smotrim.ru/vgtrk/barnaul/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Белгород
+https://podcast-gtrk.smotrim.ru/vgtrk/belgorod/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Биробиджан
+https://podcast-gtrk.smotrim.ru/vgtrk/birobidgan/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Благовещенск
+https://podcast-gtrk.smotrim.ru/vgtrk/blagoveshensk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Брянск
+https://podcast-gtrk.smotrim.ru/vgtrk/bryansk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Чебоксары
+https://podcast-gtrk.smotrim.ru/vgtrk/cheboksar/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Челябинск
+https://podcast-gtrk.smotrim.ru/vgtrk/chelyabinsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Черкесск
+https://podcast-gtrk.smotrim.ru/vgtrk/cherkessk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Чита
+https://podcast-gtrk.smotrim.ru/vgtrk/chita/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Екатеринбург
+https://podcast-gtrk.smotrim.ru/vgtrk/ekaterinburg/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Элиста
+https://podcast-gtrk.smotrim.ru/vgtrk/elista/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Горно-Алтайск
+https://podcast-gtrk.smotrim.ru/vgtrk/gornoaltaysk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Грозный
+https://podcast-gtrk.smotrim.ru/vgtrk/grozniy/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Хабаровск
+https://podcast-gtrk.smotrim.ru/vgtrk/habarovsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Ханты-Мансийск
+https://podcast-gtrk.smotrim.ru/vgtrk/hantimansisk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Ижевск
+https://podcast-gtrk.smotrim.ru/vgtrk/igevsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Иркутск
+https://podcast-gtrk.smotrim.ru/vgtrk/irkutsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Иваново
+https://podcast-gtrk.smotrim.ru/vgtrk/ivanovo/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Калининград
+https://podcast-gtrk.smotrim.ru/vgtrk/kaliningrad/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Калуга
+https://podcast-gtrk.smotrim.ru/vgtrk/kaluga/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Казань
+https://podcast-gtrk.smotrim.ru/vgtrk/kazan/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Кемерово
+https://podcast-gtrk.smotrim.ru/vgtrk/kemerovo/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Киров
+https://podcast-gtrk.smotrim.ru/vgtrk/kirov/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Кызыл
+https://podcast-gtrk.smotrim.ru/vgtrk/kisil/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Кострома
+https://podcast-gtrk.smotrim.ru/vgtrk/kostroma/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Краснодар
+https://podcast-gtrk.smotrim.ru/vgtrk/krasnodar/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Красноярск
+https://podcast-gtrk.smotrim.ru/vgtrk/krasnoyarsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Курган
+https://podcast-gtrk.smotrim.ru/vgtrk/kurgan/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Курск
+https://podcast-gtrk.smotrim.ru/vgtrk/kursk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Липецк
+https://podcast-gtrk.smotrim.ru/vgtrk/lipetsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Магадан
+https://podcast-gtrk.smotrim.ru/vgtrk/magadan/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Махачкала
+https://podcast-gtrk.smotrim.ru/vgtrk/mahachkala/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Майкоп
+https://podcast-gtrk.smotrim.ru/vgtrk/maykop/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Мурманск
+https://podcast-gtrk.smotrim.ru/vgtrk/murmansk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Нальчик
+https://podcast-gtrk.smotrim.ru/vgtrk/nalchik/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Назрань
+https://podcast-gtrk.smotrim.ru/vgtrk/nazran/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Нижний Новгород
+https://podcast-gtrk.smotrim.ru/vgtrk/nigniynovgorod/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Новосибирск
+https://podcast-gtrk.smotrim.ru/vgtrk/novosibirsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Омск
+https://podcast-gtrk.smotrim.ru/vgtrk/omsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Орёл
+https://podcast-gtrk.smotrim.ru/vgtrk/orel/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Оренбург
+https://podcast-gtrk.smotrim.ru/vgtrk/orenburg/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Пенза
+https://podcast-gtrk.smotrim.ru/vgtrk/penza/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Пермь
+https://podcast-gtrk.smotrim.ru/vgtrk/perm/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Петропавловск-Камчатский
+https://podcast-gtrk.smotrim.ru/vgtrk/petropavlosk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Петрозаводск
+https://podcast-gtrk.smotrim.ru/vgtrk/petrozavodsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Псков
+https://podcast-gtrk.smotrim.ru/vgtrk/pskov/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Ростов-на-Дону
+https://podcast-gtrk.smotrim.ru/vgtrk/rostovdon/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Рязань
+https://podcast-gtrk.smotrim.ru/vgtrk/ryazan/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Салехард
+https://podcast-gtrk.smotrim.ru/vgtrk/salehad/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Самара
+https://podcast-gtrk.smotrim.ru/vgtrk/samara/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Саранск
+https://podcast-gtrk.smotrim.ru/vgtrk/saransk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Саратов
+https://podcast-gtrk.smotrim.ru/vgtrk/saratov/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Сыктывкар
+https://podcast-gtrk.smotrim.ru/vgtrk/siktivkar/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Симферополь
+https://podcast-gtrk.smotrim.ru/vgtrk/simferopol/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Смоленск
+https://podcast-gtrk.smotrim.ru/vgtrk/smolensk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Сочи
+https://podcast-gtrk.smotrim.ru/vgtrk/sochi/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Санкт-Петербург
+https://podcast-gtrk.smotrim.ru/vgtrk/spb/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Ставрополь
+https://podcast-gtrk.smotrim.ru/vgtrk/stavropol/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Тамбов
+https://podcast-gtrk.smotrim.ru/vgtrk/tambov/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Томск
+https://podcast-gtrk.smotrim.ru/vgtrk/tomsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Тула
+https://podcast-gtrk.smotrim.ru/vgtrk/tula/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Тюмень
+https://podcast-gtrk.smotrim.ru/vgtrk/tumen/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Тверь
+https://podcast-gtrk.smotrim.ru/vgtrk/tver/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Уфа
+https://podcast-gtrk.smotrim.ru/vgtrk/ufa/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Южно-Сахалинск
+https://podcast-gtrk.smotrim.ru/vgtrk/ugnosahalinsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Улан-Удэ
+https://podcast-gtrk.smotrim.ru/vgtrk/ulanude/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Ульяновск
+https://podcast-gtrk.smotrim.ru/vgtrk/ulyanovsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Великий Новгород
+https://podcast-gtrk.smotrim.ru/vgtrk/velikiy-novgorod/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Владикавказ
+https://podcast-gtrk.smotrim.ru/vgtrk/vladikavkaz/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Владимир
+https://podcast-gtrk.smotrim.ru/vgtrk/vladimir/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Владивосток
+https://podcast-gtrk.smotrim.ru/vgtrk/vladivostok/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Волгоград
+https://podcast-gtrk.smotrim.ru/vgtrk/volgograd/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Вологда
+https://podcast-gtrk.smotrim.ru/vgtrk/vologda/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Воронеж
+https://podcast-gtrk.smotrim.ru/vgtrk/voroneg/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Якутск
+https://podcast-gtrk.smotrim.ru/vgtrk/yakutsk/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Ярославль
+https://podcast-gtrk.smotrim.ru/vgtrk/yaroslavl/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио России",Радио России. Йошкар-Ола
+https://podcast-gtrk.smotrim.ru/vgtrk/yoshkar-ola/radio_russia/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Абакан
+https://podcast-gtrk.smotrim.ru/vgtrk/abakan/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Астрахань
+https://podcast-gtrk.smotrim.ru/vgtrk/astrahan/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Барнаул
+https://podcast-gtrk.smotrim.ru/vgtrk/barnaul/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Чебоксары
+https://podcast-gtrk.smotrim.ru/vgtrk/cheboksar/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Чита
+https://podcast-gtrk.smotrim.ru/vgtrk/chita/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Екатеринбург
+https://podcast-gtrk.smotrim.ru/vgtrk/ekaterinburg/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Горно-Алтайск
+https://podcast-gtrk.smotrim.ru/vgtrk/gornoaltaysk/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Иркутск
+https://podcast-gtrk.smotrim.ru/vgtrk/irkutsk/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Иваново
+https://podcast-gtrk.smotrim.ru/vgtrk/ivanovo/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Киров
+https://podcast-gtrk.smotrim.ru/vgtrk/kirov/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Краснодар
+https://podcast-gtrk.smotrim.ru/vgtrk/krasnodar/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Курск
+https://podcast-gtrk.smotrim.ru/vgtrk/kursk/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Липецк
+https://podcast-gtrk.smotrim.ru/vgtrk/lipetsk/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Майкоп
+https://podcast-gtrk.smotrim.ru/vgtrk/maykop/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Нальчик
+https://podcast-gtrk.smotrim.ru/vgtrk/nalchik/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Омск
+https://podcast-gtrk.smotrim.ru/vgtrk/omsk/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Оренбург
+https://podcast-gtrk.smotrim.ru/vgtrk/orenburg/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Петрозаводск
+https://podcast-gtrk.smotrim.ru/vgtrk/petrozavodsk/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Псков
+https://podcast-gtrk.smotrim.ru/vgtrk/pskov/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Ростов-на-Дону
+https://podcast-gtrk.smotrim.ru/vgtrk/rostovdon/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Рязань
+https://podcast-gtrk.smotrim.ru/vgtrk/ryazan/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Самара
+https://podcast-gtrk.smotrim.ru/vgtrk/samara/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Саранск
+https://podcast-gtrk.smotrim.ru/vgtrk/saransk/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Саратов
+https://podcast-gtrk.smotrim.ru/vgtrk/saratov/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Санкт-Петербург
+https://podcast-gtrk.smotrim.ru/vgtrk/spb/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Ставрополь
+https://podcast-gtrk.smotrim.ru/vgtrk/stavropol/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Тамбов
+https://podcast-gtrk.smotrim.ru/vgtrk/tambov/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Томск
+https://podcast-gtrk.smotrim.ru/vgtrk/tomsk/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Тула
+https://podcast-gtrk.smotrim.ru/vgtrk/tula/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Тюмень
+https://podcast-gtrk.smotrim.ru/vgtrk/tumen/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Тверь
+https://podcast-gtrk.smotrim.ru/vgtrk/tver/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Уфа
+https://podcast-gtrk.smotrim.ru/vgtrk/ufa/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Ульяновск
+https://podcast-gtrk.smotrim.ru/vgtrk/ulyanovsk/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Великий Новгород
+https://podcast-gtrk.smotrim.ru/vgtrk/velikiy-novgorod/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Владимир
+https://podcast-gtrk.smotrim.ru/vgtrk/vladimir/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Волгоград
+https://podcast-gtrk.smotrim.ru/vgtrk/volgograd/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Вологда
+https://podcast-gtrk.smotrim.ru/vgtrk/vologda/mayak/index.m3u8
+#EXTINF:-1 group-title="Радио Маяк",Радио Маяк. Йошкар-Ола
+https://podcast-gtrk.smotrim.ru/vgtrk/yoshkar-ola/mayak/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Астрахань
+https://podcast-gtrk.smotrim.ru/vgtrk/astrahan/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Барнаул
+https://podcast-gtrk.smotrim.ru/vgtrk/barnaul/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Брянск
+https://podcast-gtrk.smotrim.ru/vgtrk/bryansk/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Чеборсары
+https://podcast-gtrk.smotrim.ru/vgtrk/cheboksar/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Чита
+https://podcast-gtrk.smotrim.ru/vgtrk/chita/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Екатеринбург
+https://podcast-gtrk.smotrim.ru/vgtrk/ekaterinburg/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Иркутск
+https://podcast-gtrk.smotrim.ru/vgtrk/irkutsk/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Иваново
+https://podcast-gtrk.smotrim.ru/vgtrk/ivanovo/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Киров
+https://podcast-gtrk.smotrim.ru/vgtrk/kirov/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Краснодар
+https://podcast-gtrk.smotrim.ru/vgtrk/krasnodar/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Курск
+https://podcast-gtrk.smotrim.ru/vgtrk/kursk/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Липецк
+https://podcast-gtrk.smotrim.ru/vgtrk/lipetsk/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Махачкала
+https://podcast-gtrk.smotrim.ru/vgtrk/mahachkala/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Нальчик
+https://podcast-gtrk.smotrim.ru/vgtrk/nalchik/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Нижний Новгород
+https://podcast-gtrk.smotrim.ru/vgtrk/nigniynovgorod/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Омск
+https://podcast-gtrk.smotrim.ru/vgtrk/omsk/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Оренбург
+https://podcast-gtrk.smotrim.ru/vgtrk/orenburg/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Петрозаводск
+https://podcast-gtrk.smotrim.ru/vgtrk/petrozavodsk/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Псков
+https://podcast-gtrk.smotrim.ru/vgtrk/pskov/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Ростов-на-Дону
+https://podcast-gtrk.smotrim.ru/vgtrk/rostovdon/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Рязань
+https://podcast-gtrk.smotrim.ru/vgtrk/ryazan/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Самара
+https://podcast-gtrk.smotrim.ru/vgtrk/samara/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Саранск
+https://podcast-gtrk.smotrim.ru/vgtrk/saransk/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Саратов
+https://podcast-gtrk.smotrim.ru/vgtrk/saratov/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Симферополь
+https://podcast-gtrk.smotrim.ru/vgtrk/simferopol/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Санкт-Петербург
+https://podcast-gtrk.smotrim.ru/vgtrk/spb/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Ставрополь
+https://podcast-gtrk.smotrim.ru/vgtrk/stavropol/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Тамбов
+https://podcast-gtrk.smotrim.ru/vgtrk/tambov/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Томск
+https://podcast-gtrk.smotrim.ru/vgtrk/tomsk/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Тула
+https://podcast-gtrk.smotrim.ru/vgtrk/tula/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Тюмень
+https://podcast-gtrk.smotrim.ru/vgtrk/tumen/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Тверь
+https://podcast-gtrk.smotrim.ru/vgtrk/tver/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Уфа
+https://podcast-gtrk.smotrim.ru/vgtrk/ufa/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Волгоград
+https://podcast-gtrk.smotrim.ru/vgtrk/volgograd/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Вологда
+https://podcast-gtrk.smotrim.ru/vgtrk/vologda/vestifm/index.m3u8
+#EXTINF:-1 group-title="Вести ФМ",Вести ФМ. Йошкар-Ола
+https://podcast-gtrk.smotrim.ru/vgtrk/yoshkar-ola/vestifm/index.m3u8
